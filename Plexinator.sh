@@ -5,9 +5,8 @@
 #================================================================================================
 
 # TITLE: Boot Splash
-# AUTHOR: Majik Cat Security
+# AUTHOR: RJ Levesque, Jr. - Majik Cat Security
 # DATE: May 4, 2020
-# WEBSITE: http://majikcat.ddns.net
 # GITHUB: https://github.com/hwac121
 
 
