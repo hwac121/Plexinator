@@ -10,4 +10,4 @@ INSTRUCTIONS:
 Now to open Plexinator simply type "plex" or "Plex" in any terminal window.
 You must run the script as sudo/root
 
-NOTE: YOU MUST have Plex Media Server installed for this to work. This is only a helper script for Plex Media Server within Debian LINUX. To get Plex visit https://www.plex.tv
+THIS IS ORIGINAL SOFTWARE - You may use and/or modify this software as you like, all I ask is I am given credit as the original author.
